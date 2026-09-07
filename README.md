@@ -2,6 +2,7 @@
 
 <p align="center"><strong>Turn an internet signal into a digital-product blueprint, a storefront, and a first ad brief.</strong></p>
 <p align="center">React · TypeScript · Vite · Express · Vercel</p>
+<p align="center"><a href="https://signal-market-ten.vercel.app"><strong>Open the live demo →</strong></a></p>
 
 ## From curiosity to a concrete idea
 

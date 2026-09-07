@@ -9,3 +9,5 @@ test-results/
 SMOKE-RESULTS.json
 TEST-REPORT.md
 .DS_Store
+.vercel
+.env*
