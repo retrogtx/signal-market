@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.data/
+.vercel/
+test-results/
+SMOKE-RESULTS.json
+TEST-REPORT.md
+.DS_Store

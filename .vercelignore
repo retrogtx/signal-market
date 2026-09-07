@@ -1,0 +1,11 @@
+.git/
+.env
+.env.*
+.data/
+.vercel/
+node_modules/
+dist/
+test-results/
+SMOKE-RESULTS.json
+TEST-REPORT.md
+scripts/
